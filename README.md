@@ -1,3 +1,3 @@
-PRO-C21: BULLETS AND WALLS
+PRO-C20: GCSO
 
-Test The Reliability Of The Walls When Bullets Hit Them.
+In This Project, You Have To Make A Simulator That Can Test Car Reliability.
